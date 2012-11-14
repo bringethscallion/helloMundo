@@ -19,6 +19,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     //Hola Mundo
+    //In order to create a git you must have a rocket science degree
 }
 
 - (void)didReceiveMemoryWarning
